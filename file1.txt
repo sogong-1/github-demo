@@ -1,1 +1,3 @@
 line 1 in file1.txt
+add new line from the branch 'master'
+
